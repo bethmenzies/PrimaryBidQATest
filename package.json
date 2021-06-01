@@ -1,0 +1,23 @@
+{
+  "name": "primarybidqatest",
+  "version": "1.0.0",
+  "description": "QA Test for PrimaryBid",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bethmenzies/PrimaryBidQATest.git"
+  },
+  "author": "Beth Menzies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bethmenzies/PrimaryBidQATest/issues"
+  },
+  "homepage": "https://github.com/bethmenzies/PrimaryBidQATest#readme",
+  "devDependencies": {
+    "cypress": "^7.4.0"
+  }
+}

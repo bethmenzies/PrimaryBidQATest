@@ -1,0 +1,14 @@
+[
+    "example.com",
+    "a@b@c",
+    "a(b@domain.com",
+    "a)b@domain.com",
+    "a,b@domain.com",
+    "a:b@domain.com",
+    "a;b@domain.com",
+    "a[b@domain.com",
+    "a]b@domain.com",
+    "a\b@domain.com",
+    "..example@domain.com",
+    "example@domain..com"
+]

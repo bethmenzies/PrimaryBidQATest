@@ -1,6 +1,8 @@
 # PrimaryBidQATest
  QA Test for PrimaryBid
 
+ First, clone the project.
+
   To run the tests -
  ```
  npm install
